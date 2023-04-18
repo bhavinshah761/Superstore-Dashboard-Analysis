@@ -1,6 +1,6 @@
 # Superstore-Dashboard-Analysis
 
-I created a dashboard using the Superstore dataset from Kaggle . This workshop has helped me to upskill myself and covers a wide range of topics:
+I created a dashboard using the Superstore dataset from Kaggle . This project has helped me to upskill myself and covers a wide range of topics:
 
 🔸Understanding Power BI
 
